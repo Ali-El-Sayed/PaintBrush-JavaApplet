@@ -17,6 +17,7 @@ The Desktop Paint App is a feature-rich drawing application that provides users 
 6. **Clear Canvas:** Start fresh by clearing the entire canvas. This feature allows you to wipe the slate clean and begin a new masterpiece.
 
 ##**Demo:**
+
 ![GIF Demo](demo.gif)
 
 ## Requirements
